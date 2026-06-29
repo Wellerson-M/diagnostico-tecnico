@@ -554,3 +554,6 @@ with st.sidebar:
     st.caption("⚡ Energia • 🖥️ Vídeo • 💻 Sistema")
     st.caption("⚙️ Performance • 🌐 Rede • 🔊 Áudio")
     st.caption("🖱️ Periféricos • 🔧 Hardware • ✅ OK")
+    st.caption(
+        "Notebook no Colab: [abrir](https://colab.research.google.com/drive/1SyjcsgOxULfVvdhqeY10Q1A48HG7XOpL?usp=sharing)"
+    )
